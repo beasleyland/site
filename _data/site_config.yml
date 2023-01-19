@@ -99,8 +99,8 @@ frontpage_goals_grid:
   title: frontpage.heading_short
   description: frontpage.instructions_shorter
 frontpage_introduction_banner:
-  title: frontpage.intro_title
-  description: frontpage.intro_body
+  title: Welcome to Beasleyland's SDG reporting platform
+  description: We can't wait to show you all our SDG data for Beasleyland
 goal_image_base: 'https://open-sdg.org/sdg-translations/assets/img/goals'
 goal_image_extension: ''
 goals_page:
